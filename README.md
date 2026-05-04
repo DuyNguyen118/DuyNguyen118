@@ -23,8 +23,8 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: baoduy.song@example.com
-* 💼 LinkedIn: your-linkedin-profile
+* 📧 Email: baoduy.song@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/duynguyen18/
 * 💻 GitHub: https://github.com/DuyNguyen118
 
 ---
