@@ -1,45 +1,18 @@
-<h1 align="center">Hi 👋, I'm Duy Nguyen</h1>
-<h3 align="center">A passionate software developer focused on building intelligent and scalable systems</h3>
+# 💫 About Me:
+Hi 👋, I'm Duy Nguyen<br>A passionate software developer focused on building intelligent and scalable systems<br>👨‍💻 About Me<br>🎓 I'm a developer with a strong interest in software engineering and system design<br>🚀 I enjoy building full-stack applications and solving real-world problems with code<br>🔍 I’m always exploring new technologies and improving my problem-solving skills<br>🛠️ Tech Stack<br>Languages: Java, JavaScript, SQL<br>Backend: Spring Boot, Node.js<br>Frontend: React, HTML, CSS<br>Database: PostgreSQL, SQL Server<br>Tools & Others: Git, Docker, REST APIs<br>📫 Contact Me<br>📧 Email: baoduy.song@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/duynguyen18/<br>💻 GitHub: https://github.com/DuyNguyen118<br>😄 Fun Facts<br>⚡ I enjoy breaking down complex systems into simple logic<br>🎯 I focus on writing clean, efficient, and maintainable code<br>🌏 Always curious about how technology can solve real-world problems<br>✨ Thanks for visiting my profile! ✨
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baoduy.song@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DuyNguyen118&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DuyNguyen118&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DuyNguyen118&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=DuyNguyen118&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-* 🎓 I'm a developer with a strong interest in **software engineering and system design**
-* 🚀 I enjoy building **full-stack applications** and solving real-world problems with code
-* 🔍 I’m always exploring new technologies and improving my problem-solving skills
-
----
-
-## 🛠️ Tech Stack
-
-* **Languages:** Java, JavaScript, SQL
-* **Backend:** Spring Boot, Node.js
-* **Frontend:** React, HTML, CSS
-* **Database:** PostgreSQL, SQL Server
-* **Tools & Others:** Git, Docker, REST APIs
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: baoduy.song@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/duynguyen18/
-* 💻 GitHub: https://github.com/DuyNguyen118
-
----
-
-## 😄 Fun Facts
-
-* ⚡ I enjoy breaking down complex systems into simple logic
-* 🎯 I focus on writing clean, efficient, and maintainable code
-* 🌏 Always curious about how technology can solve real-world problems
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
-
-<!---
-DuyNguyen118/DuyNguyen118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
